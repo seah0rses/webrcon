@@ -1,4 +1,3 @@
-# Changes
 I made one change from the fork, added channel id to chat [0] Global - [1] Team
 https://seah0rses.github.io/webrcon
 ----------
