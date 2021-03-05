@@ -1,3 +1,8 @@
+# Changes
+I made one change from the fork, added channel id to chat [0] Global - [1] Team
+
+----------
+
 # webrcon
 
 Game server Rcon, using websockets.
